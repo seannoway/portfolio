@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d60ba26c.css",
+    "main.js": "/portfolio/static/js/main.3b91863d.js",
+    "static/media/marvelDatabase.png": "/portfolio/static/media/marvelDatabase.f80233280bce11fd40b9.png",
+    "static/media/navbar.jpg": "/portfolio/static/media/navbar.bd0272c891fef8c342f2.jpg",
+    "static/media/profile-pic.JPG": "/portfolio/static/media/profile-pic.f2fbe9d15c537f4e6e50.JPG",
+    "static/media/starWars.png": "/portfolio/static/media/starWars.d7ade0f6f2cf05981fa8.png",
+    "static/media/workdayScheduler.png": "/portfolio/static/media/workdayScheduler.898f5c50af9c30d83143.png",
+    "static/media/passwordGenerator.png": "/portfolio/static/media/passwordGenerator.d42dbbf00a3a0c7a2ef8.png",
+    "static/media/noteTaker.png": "/portfolio/static/media/noteTaker.4c8c3cd6ab703b209c63.png",
+    "static/media/pokedex.png": "/portfolio/static/media/pokedex.5ae946def886ee06b2f0.png",
+    "static/media/2021 Twitter logo - white.png": "/portfolio/static/media/2021 Twitter logo - white.27cda7bdfce3369a30e8.png",
+    "index.html": "/portfolio/index.html",
+    "main.d60ba26c.css.map": "/portfolio/static/css/main.d60ba26c.css.map",
+    "main.3b91863d.js.map": "/portfolio/static/js/main.3b91863d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d60ba26c.css",
+    "static/js/main.3b91863d.js"
+  ]
+}
