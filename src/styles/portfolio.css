@@ -154,7 +154,8 @@ textarea {
 
 .profilePic {
     width: 18%;
-    max-height: 100%;
+    max-height: 18%;
+    height: 250px;
 }
 
 .resumeLink {
