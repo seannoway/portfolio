@@ -10,7 +10,7 @@ function footerLogo () {
             <a className="me-4" href="https://github.com/seannoway" target="_blank" rel="noopener noreferrer">
                 <img src={gitHubLogo} alt="GitHub Logo" className="icon footerLogo"></img>
             </a>
-            <a className="me-4" href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+            <a className="me-4" href="https://www.linkedin.com/in/sean-holian/" target="_blank" rel="noopener noreferrer">
                 <img src={linkedInLogo} alt="LinkedIn Logo" className="icon footerLogo"></img>
             </a>
             <a className="me-4" href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
