@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b829035b.css",
+    "main.css": "/portfolio/static/css/main.fb96df33.css",
     "main.js": "/portfolio/static/js/main.3b91863d.js",
     "static/media/marvelDatabase.png": "/portfolio/static/media/marvelDatabase.f80233280bce11fd40b9.png",
     "static/media/navbar.jpg": "/portfolio/static/media/navbar.bd0272c891fef8c342f2.jpg",
@@ -12,11 +12,11 @@
     "static/media/pokedex.png": "/portfolio/static/media/pokedex.5ae946def886ee06b2f0.png",
     "static/media/2021 Twitter logo - white.png": "/portfolio/static/media/2021 Twitter logo - white.27cda7bdfce3369a30e8.png",
     "index.html": "/portfolio/index.html",
-    "main.b829035b.css.map": "/portfolio/static/css/main.b829035b.css.map",
+    "main.fb96df33.css.map": "/portfolio/static/css/main.fb96df33.css.map",
     "main.3b91863d.js.map": "/portfolio/static/js/main.3b91863d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b829035b.css",
+    "static/css/main.fb96df33.css",
     "static/js/main.3b91863d.js"
   ]
 }
